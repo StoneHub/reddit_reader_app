@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Node MCP server
+mcp-server/node_modules/
+mcp-server/dist/
+mcp-server/.env
+mcp-server/coverage/
+mcp-server/*.log
